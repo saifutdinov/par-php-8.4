@@ -1,0 +1,12 @@
+/vendor/
+.DS_Store
+node_modules/
+
+# Symfony
+/var/cache
+/var/log
+
+# Docker
+/data
+
+
